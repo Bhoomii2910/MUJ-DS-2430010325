@@ -1,13 +1,13 @@
-# MUJ-DS-RegNo
+# MUJ-DS-2430010325
 
 | | |
 |---|---|
-| **Name** | [YOUR FULL NAME] |
-| **Registration Number** | [YOUR REG NO] |
-| **Branch** | [YOUR BRANCH] |
-| **Batch** | F |
+| **Name** | BHOOMI KOTHARI |
+| **Registration Number** | 2430010325 |
+| **Branch** | DATA SCIENCE |
+| **Batch** | D |
 | **Project Title** | Forecasting Country-Level Access to Safely Managed Drinking Water with Time-Series Models |
-| **GitHub Username** | [YOUR GITHUB USERNAME] |
+| **GitHub Username** | Bhoomii2910 |
 | **Training Program** | [TRAINING PROGRAM NAME, e.g. Data Science / NLP training, dates] |
 
 ## Repository structure
